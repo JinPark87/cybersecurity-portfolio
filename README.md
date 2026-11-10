@@ -37,3 +37,45 @@ Santa Monica College | Santa Monica, California
 - GIAC GWEB – Certified Web Application Defender
 - GIAC GOSI – Open-Source Intelligence
 - CompTIA Security+ (Expired)
+
+## Technical Skills
+
+### Technical Security & Analysis
+- Vulnerability Assessment
+- Security Assessments
+- Incident Investigation
+- Open-Source Intelligence (OSINT)
+
+### Systems & Networking
+- TCP/IP
+- Active Directory
+- Network Security
+- Wireless Networks
+- Firewalls and Switches
+
+### Penetration Testing
+- Network Penetration Testing
+- Internal Network Assessment
+- LAN Security Testing
+- Vulnerability Identification
+- Security Reconnaissance
+- Exploitation Techniques
+
+### Programming & Scripting
+- Python
+- Bash
+- PowerShell
+- Shell Scripting
+
+### Information Assurance
+- Security Compliance
+- Access Control
+- Encryption
+- Vulnerability Management
+
+### Technical Operations
+- Inventory Control
+- Data Analysis
+- Technical Documentation
+- Operational Support
+- Process Compliance
