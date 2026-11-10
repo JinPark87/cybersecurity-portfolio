@@ -4,11 +4,17 @@ Welcome to my cybersecurity portfolio!
 
 I am a U.S. Army veteran currently pursuing a Bachelor of Applied Cybersecurity at the SANS Technology Institute, with an expected graduation date of April 2027.
 
-My interest in cybersecurity has developed through hands-on technical training, professional experience, and a commitment to understanding how systems and networks can be secured against evolving threats.
+My journey into cybersecurity began when a close friend, who works as a cybersecurity analyst for a government agency, encouraged me to explore the field. That recommendation led me to Divergence Academy, where I discovered my passion for cybersecurity through hands-on technical training. I quickly became fascinated by the challenge of understanding how systems work, identifying vulnerabilities, and learning how those weaknesses could be exploited.
 
-Through my academic studies, GIAC certifications, and practical security experience, I have developed skills in vulnerability assessment, network security, penetration testing, incident investigation, digital forensics, and open-source intelligence.
+That initial experience motivated me to continue developing my skills and seek education from some of the industry's most experienced practitioners. Through my studies, GIAC certifications, and practical exercises, I have expanded my knowledge across penetration testing, network security, incident investigation, digital forensics, and open-source intelligence.
 
-This portfolio documents my cybersecurity learning journey, professional development, and participation in Capture the Flag (CTF) competitions.
+I particularly enjoy offensive security and the process of identifying and exploiting vulnerabilities to understand how systems can be compromised. I am equally interested in investigating cyber incidents and analyzing digital evidence to understand what happened and how security can be improved.
+
+My long-term goal is to become a well-rounded professional penetration tester with a broad cybersecurity skill set, capable of helping organizations strengthen their defenses while performing authorized offensive security assessments when needed.
+
+My time in the United States Army also shaped how I approach challenges. One lesson that has stayed with me is that no individual is greater than the team. I believe that collaboration, shared responsibility, and a willingness to learn from one another make even the most challenging objectives achievable.
+
+This portfolio documents my cybersecurity learning journey, professional development, technical skills, certifications, and participation in Capture the Flag (CTF) competitions.
 
 ## Education
 
