@@ -79,3 +79,39 @@ Santa Monica College | Santa Monica, California
 - Technical Documentation
 - Operational Support
 - Process Compliance
+
+## National Cyber League (NCL) – Fall 2026
+
+Participated in the National Cyber League Fall 2026 Individual Game, demonstrating practical cybersecurity knowledge across multiple technical disciplines.
+
+### Individual Game Results
+
+| Performance Metric | Result |
+|---|---:|
+| Overall Ranking | 555 / 5,959 |
+| Percentile | Approximately Top 9.3% |
+| Total Points | 2,180 / 3,000 |
+| Overall Accuracy | 85.99% |
+| Completion Rate | 82.82% |
+| Correct Responses | 135 / 157 |
+| Hints Used | 0 |
+
+### Skills Assessed
+
+- Open-Source Intelligence (OSINT)
+- Cryptography
+- Password Cracking
+- Log Analysis
+- Network Traffic Analysis
+- Digital Forensics
+- Scanning and Reconnaissance
+- Exploitation and Enumeration
+- Web Application Exploitation
+
+### Individual Game Reflection
+
+The NCL Individual Game provided an opportunity to evaluate and apply cybersecurity knowledge in a competitive, hands-on environment. The experience strengthened my problem-solving abilities and provided exposure to a broad range of cybersecurity disciplines.
+
+My results highlighted strengths in password security, exploitation and enumeration, network traffic analysis, and log analysis, while identifying additional opportunities for development in areas such as web application security and reconnaissance.
+
+**Official Individual Game Score Report:** To be added when available.
