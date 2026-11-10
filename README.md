@@ -131,3 +131,29 @@ Participated in the National Cyber League Fall 2026 Team Game, applying cybersec
 | Hints Used | 2 |
 
 **Official Team Game Score Report:** To be added when available.
+
+## Professional Experience
+
+### Cybersecurity Analyst Intern
+**9Brains LLC | Austin, Texas | March 2022 – September 2022**
+
+- Conducted technical security assessments to identify potential vulnerabilities.
+- Identified a critical CCTV vulnerability during penetration testing.
+- Performed Open-Source Intelligence (OSINT) research.
+- Analyzed security findings and assisted with remediation recommendations.
+- Maintained confidentiality and appropriate handling of sensitive client information.
+
+### Logistics Specialist (92A)
+**United States Army | October 2013 – November 2017**
+
+- Managed accountability and inventory of more than $80 million in aviation equipment supporting UH-60, AH-64, and CH-47 aircraft.
+- Analyzed logistics data and maintained accurate operational records.
+- Coordinated equipment receipt, storage, issuance, and transportation.
+- Applied military procedures and regulations to maintain accountability and compliance.
+- Supported mission-critical operations in a high-tempo environment.
+
+## Languages
+
+- English – Professional Working Proficiency
+- Spanish – Native
+- Korean – Native
