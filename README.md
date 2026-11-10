@@ -115,3 +115,19 @@ The NCL Individual Game provided an opportunity to evaluate and apply cybersecur
 My results highlighted strengths in password security, exploitation and enumeration, network traffic analysis, and log analysis, while identifying additional opportunities for development in areas such as web application security and reconnaissance.
 
 **Official Individual Game Score Report:** To be added when available.
+
+### Team Game Results
+
+Participated in the National Cyber League Fall 2026 Team Game, applying cybersecurity knowledge and problem-solving skills in a collaborative competitive environment.
+
+| Performance Metric | Result |
+|---|---:|
+| Overall Ranking | 227 / 3,041 |
+| Percentile | Approximately Top 7.5% |
+| Total Points | 2,480 / 3,000 |
+| Overall Accuracy | 80.54% |
+| Completion Rate | 88.69% |
+| Correct Responses | 149 / 185 |
+| Hints Used | 2 |
+
+**Official Team Game Score Report:** To be added when available.
