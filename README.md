@@ -157,3 +157,17 @@ Participated in the National Cyber League Fall 2026 Team Game, applying cybersec
 - English – Professional Working Proficiency
 - Spanish – Native
 - Korean – Native
+
+## CTF Learning Journey
+
+Participating in Capture the Flag (CTF) competitions has been an important part of developing my practical cybersecurity skills.
+
+Through the National Cyber League (NCL), I have had opportunities to apply knowledge across multiple areas, including network traffic analysis, digital forensics, password security, cryptography, reconnaissance, and exploitation.
+
+The Individual Game challenged me to work independently, research unfamiliar problems, and apply analytical thinking under time constraints. The Team Game provided an opportunity to apply those skills in a collaborative environment.
+
+These experiences have helped me recognize both my strengths and areas where I can continue improving. I intend to keep participating in cybersecurity exercises and competitions as I work toward becoming a well-rounded cybersecurity professional.
+
+## Portfolio Purpose
+
+This portfolio documents my ongoing development in cybersecurity through education, professional experience, technical training, certifications, and practical CTF participation.
