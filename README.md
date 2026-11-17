@@ -120,7 +120,7 @@ The NCL Individual Game provided an opportunity to evaluate and apply cybersecur
 
 My results highlighted strengths in password security, exploitation and enumeration, network traffic analysis, and log analysis, while identifying additional opportunities for development in areas such as web application security and reconnaissance.
 
-**Official Individual Game Score Report:** To be added when available.
+**Official Individual Game Score Report:** (https://s3.us-east-1.amazonaws.com/user-data.production.cyberskyline.com/reports/6a843261b261ae2f165c3d80/TCYCTFWDVCHP.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAUDF4ZW3OYCTQP3HR%2F20261117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261117T215813Z&X-Amz-Expires=600&X-Amz-Signature=46b8db6556eedb40701048d34bddf775a8fe07d64cdd764e6f2661665be0449b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 ### Team Game Results
 
