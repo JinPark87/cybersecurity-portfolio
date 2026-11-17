@@ -28,9 +28,6 @@ American Military University | November 2022 – September 2023
 **Professional Penetration Tester Program**  
 Divergence Academy | Addison, Texas
 
-**General Education**  
-Santa Monica College | Santa Monica, California
-
 ## Certifications
 
 - GIAC GFACT – Security Fundamentals
